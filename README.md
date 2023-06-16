@@ -4,3 +4,5 @@ This project aims to teach beginners how to analyze a music playlist database us
 # Database and Tools
 + <b> Postgre SQL
 + <b> PgAdmin4
+
+# Schema- Music Store Database 
